@@ -1,0 +1,82 @@
+[
+  {
+    "path": "c",
+    "name": "C",
+    "checked": false
+  },
+  {
+    "path": "c#",
+    "name": "C#",
+    "checked": false
+  },
+  {
+    "path": "c++",
+    "name": "C++",
+    "checked": false
+  },
+  {
+    "path": "css",
+    "name": "CSS",
+    "checked": true
+  },
+  {
+    "path": "dart",
+    "name": "Dart",
+    "checked": false
+  },
+  {
+    "path": "go",
+    "name": "Go",
+    "checked": true
+  },
+  {
+    "path": "html",
+    "name": "HTML",
+    "checked": true
+  },
+  {
+    "path": "javascript",
+    "name": "JavaScript",
+    "checked": true
+  },
+  {
+    "path": "java",
+    "name": "Java",
+    "checked": false
+  },
+  {
+    "path": "Kotlin",
+    "name": "Kotlin",
+    "checked": false
+  },
+  {
+    "path": "markdown",
+    "name": "Markdown",
+    "checked": false
+  },
+  {
+    "path": "python",
+    "name": "Python",
+    "checked": true
+  },
+  {
+    "path": "php",
+    "name": "PHP",
+    "checked": false
+  },
+  {
+    "path": "scss",
+    "name": "SCSS",
+    "checked": true
+  },
+  {
+    "path": "swift",
+    "name": "Swtift",
+    "checked": false
+  },
+  {
+    "path": "typescript",
+    "name": "TypeScript",
+    "checked": true
+  }
+]

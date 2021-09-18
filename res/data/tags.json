@@ -1,0 +1,77 @@
+[
+  {
+    "path": "react",
+    "name": "React",
+    "short_name": "react",
+    "checked": true
+  },
+  {
+    "path": "iOS",
+    "name": "IOS",
+    "short_name": "ios",
+    "checked": false
+  },
+  {
+    "path": "arndroid",
+    "name": "Android",
+    "short_name": "Android",
+    "checked": false
+  },
+  {
+    "path": "c",
+    "name": "C",
+    "checked": false
+  },
+  {
+    "path": "csharp",
+    "name": "C#",
+    "checked": false
+  },
+  {
+    "path": "css",
+    "name": "CSS",
+    "checked": false
+  },
+  {
+    "path": "go",
+    "name": "Go",
+    "checked": false
+  },
+  {
+    "path": "java",
+    "name": "Java",
+    "checked": true
+  },
+  {
+    "path": "javascript",
+    "short_name": "JS",
+    "name": "JavaScript",
+    "checked": true
+  },
+  {
+    "short_name": "Obj-C",
+    "path": "objective-c",
+    "name": "Objective-C",
+    "checked": true
+  },
+  {
+    "path": "php",
+    "name": "PHP",
+    "checked": true
+  },
+  {
+    "path": "python",
+    "name": "Python",
+    "checked": false
+  },
+  {
+    "path": "r",
+    "name": "R",
+    "checked": false
+  },
+  {
+    "path": "ruby",
+    "name": "Ruby",
+    "checked": false
+  }
+]
